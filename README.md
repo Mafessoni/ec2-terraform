@@ -15,6 +15,6 @@ terraform plan
 ```
 
 ```Bash
-Bash terraform apply --auto-approve
+terraform apply --auto-approve
 ```
 
