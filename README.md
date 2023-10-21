@@ -1,0 +1,4 @@
+# terraform-aws
+
+```SCRIPT PARA CRIAÇÃO DE MAQUINAS EC2 E SUAS CONFIGURAÇÃO DE REDE```
+
