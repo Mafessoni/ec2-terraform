@@ -6,8 +6,11 @@ Primeiro realizar a instalação do Terraform no site:
 https://developer.hashicorp.com/terraform/downloads
 
 COMANDOS
-```terraform init```
-```terraform plan```
-```terraform apply --auto-approve```
+```Bash 
+terraform init```
+```Bash
+terraform plan```
+```Bash
+terraform apply --auto-approve```
 
 
